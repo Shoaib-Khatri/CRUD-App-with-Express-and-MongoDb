@@ -24,5 +24,4 @@ Before running this application, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/Shoaib-Khatri/CRUD-App-with-Express-and-MongoDb.git
-cd crud-app
 ```
